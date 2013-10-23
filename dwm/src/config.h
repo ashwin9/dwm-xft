@@ -1,0 +1,1 @@
+/home/ashwin/dwm/config.h
